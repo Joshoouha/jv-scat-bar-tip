@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jv-scat-bar-tip/static/css/main.f447e9ec.css",
+    "main.js": "/jv-scat-bar-tip/static/js/main.274e62b8.js",
+    "static/js/453.1ae47172.chunk.js": "/jv-scat-bar-tip/static/js/453.1ae47172.chunk.js",
+    "static/media/tips.csv": "/jv-scat-bar-tip/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/jv-scat-bar-tip/index.html",
+    "main.f447e9ec.css.map": "/jv-scat-bar-tip/static/css/main.f447e9ec.css.map",
+    "main.274e62b8.js.map": "/jv-scat-bar-tip/static/js/main.274e62b8.js.map",
+    "453.1ae47172.chunk.js.map": "/jv-scat-bar-tip/static/js/453.1ae47172.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f447e9ec.css",
+    "static/js/main.274e62b8.js"
+  ]
+}
